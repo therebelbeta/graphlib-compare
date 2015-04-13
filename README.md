@@ -11,6 +11,7 @@ I will be comparing the following:
 * Does it provide smooth user interaction?
 
 # metricsgraphics
+[Plunker tests](http://plnkr.co/edit/zxFzNEJk7uwtZa5JGwqy?p=preview)
 
 # Chartist.js
 
