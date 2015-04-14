@@ -16,16 +16,18 @@ I will be comparing the following:
 
 [Plunker tests](http://plnkr.co/edit/zxFzNEJk7uwtZa5JGwqy?p=preview)
 
-* LICENSE: 
-* NEEDS: 
-* LOADING: 
-* DYNAMIC: 
-* STYLING: 
-* UX: 
-* LEARNING CURVE: 
+* LICENSE: [Mozilla Public License 2.0](https://tldrlegal.com/license/mozilla-public-license-2.0-(mpl-2))
+* NEEDS: It supports multiple line graphs, but turns off fill color when multiples are used
+* LOADING: supports browserify
+* DYNAMIC: smooth transitions for data change
+* STYLING: styling is very flexible, via css
+* UX: smooth loading and has graph placeholder for no data
+* LEARNING CURVE: Pretty simple to learn
 
 # Chartist.js
-[Plunker tests](#)
+[Site](http://gionkunz.github.io/chartist-js/) [Documentation](http://gionkunz.github.io/chartist-js/api-documentation.html)
+
+[Plunker tests](http://plnkr.co/edit/FIEGDUi1odJUo1RgEOV1)
 
 * LICENSE: 
 * NEEDS: 
