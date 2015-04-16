@@ -30,26 +30,32 @@ I will be comparing the following:
 [Plunker tests](http://plnkr.co/edit/FIEGDUi1odJUo1RgEOV1)
 
 * LICENSE: [WTFPL-2.0](https://tldrlegal.com/license/do-wtf-you-want-to-public-license-v2-(wtfpl-2.0))
-* NEEDS: 
-* LOADING: 
-* DYNAMIC: 
+* NEEDS: looks like it is pretty [flexible](http://www.smashingmagazine.com/2014/12/16/chartist-js-open-source-library-responsive-charts/)
+* LOADING: browserify works
+* DYNAMIC: [CURRENTLY NOT OPTIMIZED FOR DYNAMIC UPDATING](https://github.com/gionkunz/chartist-js/issues/3)
 * STYLING: 
 * UX: 
 * LEARNING CURVE: 
 
 # uvCharts.js
-[Plunker tests](#)
+[site](http://imaginea.github.io/uvCharts/) [documentation](http://imaginea.github.io/uvCharts/documentation.html)
 
-* LICENSE: 
+[Plunker tests](http://plnkr.co/edit/RQO71fXIY5jzW2ziN2ey?p=preview)
+
+**Last updated in October 2013, maintenance looks sparse.**
+
+* LICENSE: MIT
 * NEEDS: 
 * LOADING: 
-* DYNAMIC: 
+* DYNAMIC: REALTIME UPDATING NOT YET AVAILABLE [(under development)](https://github.com/Imaginea/uvCharts#to-be-implemented)
 * STYLING: 
 * UX: 
 * LEARNING CURVE: 
 
 # graphael
-[Plunker tests](#)
+[site](http://g.raphaeljs.com/) [documentation](http://g.raphaeljs.com/reference.html)
+
+[Plunker tests](http://plnkr.co/edit/L1nf3r7coI45ap8jOkOv?p=preview)
 
 * LICENSE: 
 * NEEDS: 
