@@ -57,16 +57,7 @@ I will be comparing the following:
 
 [Plunker tests](http://plnkr.co/edit/L1nf3r7coI45ap8jOkOv?p=preview)
 
-* LICENSE: 
-* NEEDS: 
-* LOADING: 
-* DYNAMIC: 
-* STYLING: 
-* UX: 
-* LEARNING CURVE: 
-
-# d3.js
-[Plunker tests](#)
+**This is super low level. I would not suggest using this alone.**
 
 * LICENSE: 
 * NEEDS: 
@@ -75,3 +66,31 @@ I will be comparing the following:
 * STYLING: 
 * UX: 
 * LEARNING CURVE: 
+
+# c3.js
+[site](http://c3js.org/) [docs](http://c3js.org/reference.html)
+
+[Plunker tests](http://plnkr.co/edit/QLuEQ19kr0y4nXehdzzA?p=preview)
+
+* LICENSE: MIT
+* NEEDS: Seems like it can handle multiple area graphs
+* LOADING: seems to be browserifiable
+* DYNAMIC: can handle changes in dataset
+* STYLING: Allows for css styling via classes
+* UX: Smooth transitions between data sets
+* LEARNING CURVE: Not too bad. About 30m to 1hr
+
+# xCharts
+[site](http://tenxer.github.io/xcharts/) [docs](http://c3js.org/reference.html)
+
+[Plunker tests](http://plnkr.co/edit/XTHYgwxzCUCVbJetAs4q?p=preview)
+
+* LICENSE: MIT
+* NEEDS: Seems like it can handle multiple area graphs
+* LOADING: seems to be browserifiable
+* DYNAMIC: can handle changes in dataset
+* STYLING: Allows for css styling via classes
+* UX: Smooth transitions between data sets
+* LEARNING CURVE: Not too bad. About 30m to 1hr
+
+
