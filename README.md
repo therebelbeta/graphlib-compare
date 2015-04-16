@@ -67,7 +67,7 @@ I will be comparing the following:
 * UX: 
 * LEARNING CURVE: 
 
-# c3.js
+# c3.js -- my favorite so far
 [site](http://c3js.org/) [docs](http://c3js.org/reference.html)
 
 [Plunker tests](http://plnkr.co/edit/QLuEQ19kr0y4nXehdzzA?p=preview)
